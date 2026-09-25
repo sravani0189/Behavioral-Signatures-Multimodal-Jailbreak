@@ -1,0 +1,22 @@
+Behavioral Mechanism,total_occurrences
+Benign reinterpretation,208
+Harmful intent ignored,195
+OCR dependency,153
+Visual grounding,94
+Procedural assistance reduced,91
+Image sufficient,74
+Stable descriptive behavior,71
+Procedural assistance maintained,42
+Partial objective preservation,37
+Prompt dependency,35
+Stable benign behavior,27
+Operational assistance maintained,15
+Procedural assistance increased,13
+Harmful reinterpretation,11
+Operational interpretation,7
+Concealment-oriented assistance increased,1
+Disclaimer with assistance,1
+Partial OCR dependency,1
+Partial phrase preservation,1
+Stable harmful-intent avoidance,1
+Stable refusal,1

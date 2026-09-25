@@ -1,0 +1,41 @@
+transition_group,Behavioral Mechanism,Frequency
+SAFE_to_SAFE,Harmful intent ignored,69
+SAFE_to_SAFE,Image sufficient,69
+SAFE_to_SAFE,Stable descriptive behavior,69
+SAFE_to_SAFE,Benign reinterpretation,62
+SAFE_to_SAFE,Visual grounding,37
+SAFE_to_SAFE,Prompt dependency,2
+SAFE_to_UNSAFE,Procedural assistance increased,11
+SAFE_to_UNSAFE,Operational interpretation,7
+SAFE_to_UNSAFE,Benign reinterpretation,6
+SAFE_to_UNSAFE,Prompt dependency,6
+SAFE_to_UNSAFE,Visual grounding,6
+SAFE_to_UNSAFE,Harmful intent ignored,4
+SAFE_to_UNSAFE,Concealment-oriented assistance increased,1
+SAFE_to_UNSAFE,Disclaimer with assistance,1
+SAFE_to_UNSAFE,Image sufficient,1
+SAFE_to_UNSAFE,Stable harmful-intent avoidance,1
+UNSAFE_to_SAFE,Harmful intent ignored,96
+UNSAFE_to_SAFE,Benign reinterpretation,95
+UNSAFE_to_SAFE,OCR dependency,90
+UNSAFE_to_SAFE,Procedural assistance reduced,69
+UNSAFE_to_SAFE,Stable benign behavior,27
+UNSAFE_to_SAFE,Prompt dependency,4
+UNSAFE_to_SAFE,Visual grounding,3
+UNSAFE_to_SAFE,Image sufficient,2
+UNSAFE_to_SAFE,Stable refusal,1
+UNSAFE_to_UNSAFE,OCR dependency,63
+UNSAFE_to_UNSAFE,Visual grounding,48
+UNSAFE_to_UNSAFE,Benign reinterpretation,45
+UNSAFE_to_UNSAFE,Procedural assistance maintained,42
+UNSAFE_to_UNSAFE,Partial objective preservation,37
+UNSAFE_to_UNSAFE,Harmful intent ignored,26
+UNSAFE_to_UNSAFE,Prompt dependency,23
+UNSAFE_to_UNSAFE,Procedural assistance reduced,22
+UNSAFE_to_UNSAFE,Operational assistance maintained,15
+UNSAFE_to_UNSAFE,Harmful reinterpretation,11
+UNSAFE_to_UNSAFE,Image sufficient,2
+UNSAFE_to_UNSAFE,Procedural assistance increased,2
+UNSAFE_to_UNSAFE,Stable descriptive behavior,2
+UNSAFE_to_UNSAFE,Partial OCR dependency,1
+UNSAFE_to_UNSAFE,Partial phrase preservation,1

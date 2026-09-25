@@ -1,0 +1,22 @@
+Behavioral Mechanism,SAFE_to_SAFE,SAFE_to_UNSAFE,UNSAFE_to_SAFE,UNSAFE_to_UNSAFE,present_groups,total_frequency,dominant_group,dominant_frequency,stable_total,change_total,pattern_family
+Benign reinterpretation,62,6,95,45,4,208,UNSAFE_to_SAFE,95,107,101,shared_across_all_groups
+Concealment-oriented assistance increased,0,1,0,0,1,1,SAFE_to_UNSAFE,1,0,1,unique_to_one_group
+Disclaimer with assistance,0,1,0,0,1,1,SAFE_to_UNSAFE,1,0,1,unique_to_one_group
+Harmful intent ignored,69,4,96,26,4,195,UNSAFE_to_SAFE,96,95,100,shared_across_all_groups
+Harmful reinterpretation,0,0,0,11,1,11,UNSAFE_to_UNSAFE,11,11,0,unique_to_one_group
+Image sufficient,69,1,2,2,4,74,SAFE_to_SAFE,69,71,3,shared_across_all_groups
+OCR dependency,0,0,90,63,2,153,UNSAFE_to_SAFE,90,63,90,change_leaning
+Operational assistance maintained,0,0,0,15,1,15,UNSAFE_to_UNSAFE,15,15,0,unique_to_one_group
+Operational interpretation,0,7,0,0,1,7,SAFE_to_UNSAFE,7,0,7,unique_to_one_group
+Partial OCR dependency,0,0,0,1,1,1,UNSAFE_to_UNSAFE,1,1,0,unique_to_one_group
+Partial objective preservation,0,0,0,37,1,37,UNSAFE_to_UNSAFE,37,37,0,unique_to_one_group
+Partial phrase preservation,0,0,0,1,1,1,UNSAFE_to_UNSAFE,1,1,0,unique_to_one_group
+Procedural assistance increased,0,11,0,2,2,13,SAFE_to_UNSAFE,11,2,11,change_leaning
+Procedural assistance maintained,0,0,0,42,1,42,UNSAFE_to_UNSAFE,42,42,0,unique_to_one_group
+Procedural assistance reduced,0,0,69,22,2,91,UNSAFE_to_SAFE,69,22,69,change_leaning
+Prompt dependency,2,6,4,23,4,35,UNSAFE_to_UNSAFE,23,25,10,shared_across_all_groups
+Stable benign behavior,0,0,27,0,1,27,UNSAFE_to_SAFE,27,0,27,unique_to_one_group
+Stable descriptive behavior,69,0,0,2,2,71,SAFE_to_SAFE,69,71,0,stable_leaning
+Stable harmful-intent avoidance,0,1,0,0,1,1,SAFE_to_UNSAFE,1,0,1,unique_to_one_group
+Stable refusal,0,0,1,0,1,1,UNSAFE_to_SAFE,1,0,1,unique_to_one_group
+Visual grounding,37,6,3,48,4,94,UNSAFE_to_UNSAFE,48,85,9,shared_across_all_groups

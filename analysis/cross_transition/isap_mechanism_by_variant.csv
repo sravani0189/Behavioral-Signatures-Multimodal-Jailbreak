@@ -1,0 +1,22 @@
+Behavioral Mechanism,SD,SD_TYPO,TYPO
+Benign reinterpretation,71,72,65
+Concealment-oriented assistance increased,0,0,1
+Disclaimer with assistance,1,0,0
+Harmful intent ignored,75,56,64
+Harmful reinterpretation,4,7,0
+Image sufficient,51,11,12
+OCR dependency,1,72,80
+Operational assistance maintained,9,4,2
+Operational interpretation,3,2,2
+Partial OCR dependency,1,0,0
+Partial objective preservation,2,10,25
+Partial phrase preservation,0,1,0
+Procedural assistance increased,7,4,2
+Procedural assistance maintained,16,20,6
+Procedural assistance reduced,0,39,52
+Prompt dependency,18,11,6
+Stable benign behavior,6,4,17
+Stable descriptive behavior,47,11,13
+Stable harmful-intent avoidance,1,0,0
+Stable refusal,0,0,1
+Visual grounding,67,23,4

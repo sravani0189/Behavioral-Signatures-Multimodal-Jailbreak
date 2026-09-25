@@ -1,0 +1,5 @@
+transition_group,total_frequency,distinct_mechanisms,dominant_mechanism,dominant_mechanism_frequency,shared_mechanisms_across_all_groups,unique_mechanisms_in_dataset
+SAFE_to_SAFE,308,6,Harmful intent ignored,69,5,12
+SAFE_to_UNSAFE,44,10,Procedural assistance increased,11,5,12
+UNSAFE_to_SAFE,387,9,Harmful intent ignored,96,5,12
+UNSAFE_to_UNSAFE,340,15,OCR dependency,63,5,12

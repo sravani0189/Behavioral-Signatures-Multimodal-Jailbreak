@@ -1,0 +1,4 @@
+variant,sample_count,distinct_mechanisms,top_mechanism,top_mechanism_count,top_source_candidate
+SD,380,17,Harmful intent ignored,75,Visual scene likely influential
+SD_TYPO,347,16,Benign reinterpretation,72,Visual scene likely influential
+TYPO,352,16,OCR dependency,80,Embedded OCR text likely influential

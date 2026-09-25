@@ -1,0 +1,13 @@
+input_modality,transition_group,sample_count
+Image,SAFE_to_SAFE,220
+Image,SAFE_to_UNSAFE,22
+Image,UNSAFE_to_SAFE,26
+Image,UNSAFE_to_UNSAFE,112
+Image+Text,SAFE_to_SAFE,40
+Image+Text,SAFE_to_UNSAFE,14
+Image+Text,UNSAFE_to_SAFE,173
+Image+Text,UNSAFE_to_UNSAFE,120
+Text,SAFE_to_SAFE,48
+Text,SAFE_to_UNSAFE,8
+Text,UNSAFE_to_SAFE,188
+Text,UNSAFE_to_UNSAFE,108

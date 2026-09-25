@@ -1,0 +1,22 @@
+Behavioral Mechanism,Rephrased Question,Rephrased Question(SD)
+Benign reinterpretation,137,71
+Concealment-oriented assistance increased,1,0
+Disclaimer with assistance,0,1
+Harmful intent ignored,120,75
+Harmful reinterpretation,7,4
+Image sufficient,23,51
+OCR dependency,152,1
+Operational assistance maintained,6,9
+Operational interpretation,4,3
+Partial OCR dependency,0,1
+Partial objective preservation,35,2
+Partial phrase preservation,1,0
+Procedural assistance increased,6,7
+Procedural assistance maintained,26,16
+Procedural assistance reduced,91,0
+Prompt dependency,17,18
+Stable benign behavior,21,6
+Stable descriptive behavior,24,47
+Stable harmful-intent avoidance,0,1
+Stable refusal,1,0
+Visual grounding,27,67

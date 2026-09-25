@@ -1,0 +1,4 @@
+source_candidate,mechanism_count,total_occurrences,shared_across_all_variants,variant_specific,mean_dominance_ratio
+Multisource / robust across variants,3,410,3,0,0.3864
+Embedded OCR text likely influential,4,308,3,0,0.5999
+Visual scene likely influential,6,307,5,0,0.6294

@@ -1,0 +1,44 @@
+# Large benchmark data
+data/imgs/
+data/MM-SafetyBench(imgs).zip
+
+# Large training checkpoints / adapters
+analysis/behavior_analysis/runs/
+
+# Python/cache/temp
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# Accidental shell artifacts
+=4.45
+ls
+
+# Raw paired prompts/responses - not part of public release
+analysis/behavior_analysis/data/behavior_pairs_raw.csv
+analysis/behavior_analysis/data/behavior_pairs_complete.csv
+
+# Full annotation files containing raw model/annotator responses
+analysis/behavior_analysis/outputs/fewshot/predictions_complete.csv
+analysis/behavior_analysis/outputs/fewshot/predictions_complete_clean.csv
+
+# Legacy ISAP analysis not used in revised paper
+analysis/behavior_analysis/outputs/isap_full_models/
+analysis/behavior_analysis/outputs/isap_statistics/
+
+# Raw model generations / response artifacts
+outputs/
+results_masked/
+eval_results/
+judged_results/
+comparison_results/
+questions_with_answers/
+
+# Legacy/manual result artifacts not required for paper reproduction
+results/
+
+# Old figures superseded by final paper figures
+figure4_behavior_distribution.pdf
+figure6_asr_vs_behavior.pdf
+figure6_asr_vs_behavior_clean.pdf

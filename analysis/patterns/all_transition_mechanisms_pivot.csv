@@ -1,0 +1,23 @@
+Behavioral Mechanism,SAFE_to_SAFE,SAFE_to_UNSAFE,UNSAFE_to_SAFE,UNSAFE_to_UNSAFE
+Benign reinterpretation,62,6,95,45
+Concealment-oriented assistance increased,0,1,0,0
+Disclaimer with assistance,0,1,0,0
+Harmful intent ignored,69,4,96,26
+Harmful reinterpretation,0,0,0,11
+Image sufficient,0,1,2,2
+Image sufficient.,69,0,0,0
+OCR dependency,0,0,90,63
+Operational assistance maintained,0,0,0,15
+Operational interpretation,0,7,0,0
+Partial OCR dependency,0,0,0,1
+Partial objective preservation,0,0,0,37
+Partial phrase preservation,0,0,0,1
+Procedural assistance increased,0,11,0,2
+Procedural assistance maintained,0,0,0,42
+Procedural assistance reduced,0,0,69,22
+Prompt dependency,2,6,4,23
+Stable benign behavior,0,0,27,0
+Stable descriptive behavior,69,0,0,2
+Stable harmful-intent avoidance,0,1,0,0
+Stable refusal,0,0,1,0
+Visual grounding,37,6,3,48

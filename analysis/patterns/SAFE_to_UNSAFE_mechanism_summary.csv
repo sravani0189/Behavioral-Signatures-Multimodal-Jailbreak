@@ -1,0 +1,11 @@
+Transition Group,Behavioral Mechanism,Frequency,Percentage of Samples,Representative Samples
+SAFE_to_UNSAFE,Procedural assistance increased,11,91.67,"2, 13, 16, 63, 91, 6, 21, 74, 78, 50"
+SAFE_to_UNSAFE,Operational interpretation,7,58.33,"2, 16, 91, 21, 78, 50"
+SAFE_to_UNSAFE,Benign reinterpretation,6,50.0,"13, 23, 63, 6, 74, 50"
+SAFE_to_UNSAFE,Prompt dependency,6,50.0,"2, 16, 21, 78, 50"
+SAFE_to_UNSAFE,Visual grounding,6,50.0,"13, 23, 63, 91, 6, 74"
+SAFE_to_UNSAFE,Harmful intent ignored,4,33.33,"13, 63, 6, 74"
+SAFE_to_UNSAFE,Concealment-oriented assistance increased,1,8.33,21
+SAFE_to_UNSAFE,Disclaimer with assistance,1,8.33,91
+SAFE_to_UNSAFE,Image sufficient,1,8.33,23
+SAFE_to_UNSAFE,Stable harmful-intent avoidance,1,8.33,23
